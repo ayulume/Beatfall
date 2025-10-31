@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "Beatfall.sln",
+    "projects": [
+      "Beatfall.Game\\Beatfall.Game.csproj",
+      "Beatfall.Resources\\Beatfall.Resources.csproj",
+      "Beatfall.iOS\\Beatfall.iOS.csproj"
+    ]
+  }
+}
